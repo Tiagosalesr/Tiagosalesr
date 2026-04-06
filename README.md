@@ -39,8 +39,8 @@ Software Engineering student at UFG | Backend dev
 
 <div align="center">
 <h2>GitHub Status</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiagosalesr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagosalesr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiagosalesr&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tiagosalesr&theme=tokyonight" />
 
+</div>
 
